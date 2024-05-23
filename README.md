@@ -1,8 +1,11 @@
 # AltiumHorseLibrary
 
-
+Альтиумовский обзор создания библиотечных компонентов
+https://www.altium.com/ru/documentation/altium-designer/creating-file-based-library-components?version=18.1
 Альтиумовский гайд куда тыкать что бы создать посадочную площадку компонента
 https://www.altium.com/ru/documentation/altium-designer/creating-pcb-footprint?version=19.1
+Полезный FAQ iXBT
+https://forum.ixbt.com/topic.cgi?id=48:5410
 
 Таблица наименований библиотек и типов компонентов в них.
 | Resistor 0402.IntLib |  |
