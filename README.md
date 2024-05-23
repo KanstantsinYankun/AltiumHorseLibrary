@@ -1,4 +1,6 @@
-# AltiumHorseLibrary
+[TOCM]
+
+#Полезные ссылки и гайды
 
 Альтиумовский обзор создания библиотечных компонентов
 https://www.altium.com/ru/documentation/altium-designer/creating-file-based-library-components?version=18.1
@@ -7,7 +9,11 @@ https://www.altium.com/ru/documentation/altium-designer/creating-pcb-footprint?v
 Полезный FAQ iXBT
 https://forum.ixbt.com/topic.cgi?id=48:5410
 
+#Структура файлов
+
 Таблица наименований библиотек и типов компонентов в них.
+| Имя файла  | Назначение  |
+| :------------ | :------------ |
 | Resistor 0402.IntLib |  |
 | Resistor 0603.IntLib |  |
 | Resistor 0805.IntLib |  |
@@ -30,6 +36,8 @@ https://forum.ixbt.com/topic.cgi?id=48:5410
 
 
 Сохранено для обратной совместимости с легаси проектами
+| Имя файла  | Назначение  |
+| :------------ | :------------ |
 | EPCOS.PcbLib                       |  |
 | LED.PcbLib                         |  |
 | Miscellaneous Devices.IntLib       |  |
@@ -40,3 +48,6 @@ https://forum.ixbt.com/topic.cgi?id=48:5410
 | Connectors Molex.SchLib            |  |
 | SoM_Artix.PcbLib                   |  |
 | SoM_Artix.SchLib                   |  |
+
+
+Правила 
