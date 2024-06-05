@@ -11,6 +11,9 @@ https://www.altium.com/ru/documentation/altium-designer/creating-pcb-footprint?v
 Полезный FAQ iXBT
 https://forum.ixbt.com/topic.cgi?id=48:5410
 
+![image](https://github.com/KanstantsinYankun/AltiumHorseLibrary/assets/92923749/4f0f0d9e-3849-4107-a094-e1735057dc20)
+
+
 # Структура файлов
 
 Таблица наименований библиотек и типов компонентов в них.
