@@ -16,6 +16,7 @@
 - [ ] библиотеки SchLib
 - [ ] библиотеки PcbLib
 - [ ] легаси библиотеки присоединившихся участников
+- [ ] библиотеки баз данных
 - [ ] форматки ГОСТ для оформления чертежей
 - [ ] шрифты ГОСТ
 - [ ] настройки рабочей зоны альтиум
@@ -69,6 +70,9 @@ https://www.altium.com/ru/documentation/altium-designer/creating-pcb-footprint?v
 
 Полезный FAQ iXBT
 https://forum.ixbt.com/topic.cgi?id=48:5410
+
+Видео обьясняющее принцип библиотек баз данных
+https://www.youtube.com/watch?v=yTLu0gdOo6c
 
 </details>
 
