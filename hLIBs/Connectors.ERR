@@ -1,0 +1,142 @@
+Altium Designer System: Library Component Rule Check
+PCB File : Connectors
+Date     : 13.12.2024
+Time     : 19:13:47
+
+
+Name                Warnings
+------------------------------------------------------------------
+USB C                    Duplicate Pad Name On Pads Pad Free-S1(-4.32mm,2.475mm) on Multi-Layer And Pad Free-S1(4.32mm,2.475mm) on Multi-Layer
+USB C                    Duplicate Pad Name On Pads Pad Free-S1(-4.32mm,-2.885mm) on Multi-Layer And Pad Free-S1(4.32mm,2.475mm) on Multi-Layer
+USB C                    Duplicate Pad Name On Pads Pad Free-S1(4.32mm,-2.885mm) on Multi-Layer And Pad Free-S1(4.32mm,2.475mm) on Multi-Layer
+
+2035662007               Duplicate Pad Name On Pads Pad Free-NC(-6.175mm,-1.85mm) on Top Layer And Pad Free-NC(6.175mm,-1.85mm) on Top Layer
+
+2035663007               Duplicate Pad Name On Pads Pad Free-NC(-8.675mm,-1.85mm) on Top Layer And Pad Free-NC(8.675mm,-1.85mm) on Top Layer
+2035663007               Duplicate Pad Name On Pads Pad Free-NC(8.325mm,-0.45mm) on Top Layer And Pad Free-NC(8.675mm,-1.85mm) on Top Layer
+2035663007               Duplicate Pad Name On Pads Pad Free-NC(-8.325mm,-0.45mm) on Top Layer And Pad Free-NC(8.675mm,-1.85mm) on Top Layer
+
+2147210040               Duplicate Pad Name On Pads Pad Free-NC(2.5mm,-0.975mm) on Top Layer And Pad Free-NC(-2.5mm,-0.975mm) on Top Layer
+
+2147210050               Duplicate Pad Name On Pads Pad Free-NC(2.9mm,-0.975mm) on Top Layer And Pad Free-NC(-2.9mm,-0.975mm) on Top Layer
+
+2147210060               Duplicate Pad Name On Pads Pad Free-NC(3.3mm,-0.975mm) on Top Layer And Pad Free-NC(-3.3mm,-0.975mm) on Top Layer
+
+2147210100               Duplicate Pad Name On Pads Pad Free-NC(4.9mm,-0.975mm) on Top Layer And Pad Free-NC(-4.9mm,-0.975mm) on Top Layer
+
+2147210180               Duplicate Pad Name On Pads Pad Free-NC(-8.1mm,-0.975mm) on Top Layer And Pad Free-NC(8.1mm,-0.975mm) on Top Layer
+
+368312-1-3               Duplicate Pad Name On Pads Pad Free-NC(2.8mm,4.1mm) on Multi-Layer And Pad Free-NC(-2.8mm,4.1mm) on Multi-Layer
+
+43045-1418               Duplicate Pad Name On Pads Pad Free-NC(-12.89mm,0mm) on Top Layer And Pad Free-NC(12.89mm,0mm) on Top Layer
+
+5019530405               Duplicate Pad Name On Pads Pad Free-6(2.8mm,-1.95mm) on Top Layer And Pad Free-6(-2.8mm,-1.95mm) on Top Layer
+
+5019530505               Duplicate Pad Name On Pads Pad Free-6(-3.3mm,-1.95mm) on Top Layer And Pad Free-6(3.3mm,-1.95mm) on Top Layer
+
+73412-0110               Duplicate Pad Name On Pads Pad Free-2(1.475mm,0mm) on Top Layer And Pad Free-2(0mm,1.5mm) on Top Layer
+73412-0110               Duplicate Pad Name On Pads Pad Free-2(-1.475mm,0mm) on Top Layer And Pad Free-2(0mm,1.5mm) on Top Layer
+
+5-5179009-1              Duplicate Pad Name On Pads Pad Free-NC(-10.1mm,0mm) on Multi-Layer And Pad Free-NC(10.1mm,0mm) on Multi-Layer
+
+M58-2800442R             Duplicate Pad Name On Pads Pad Free-NC(-10.1mm,0mm) on Multi-Layer And Pad Free-NC(10.1mm,0mm) on Multi-Layer
+
+M58-3800442R             Duplicate Pad Name On Pads Pad Free-NC(10.1mm,0mm) on Multi-Layer And Pad Free-NC(-10.1mm,0mm) on Multi-Layer
+
+20525-030E-02            Duplicate Pad Name On Pads Pad Free-NC(-8.445mm,-1.562mm) on Top Layer And Pad Free-NC(8.445mm,-1.562mm) on Top Layer
+20525-030E-02            Duplicate Pad Name On Pads Pad Free-NC(8.445mm,0.763mm) on Top Layer And Pad Free-NC(8.445mm,-1.562mm) on Top Layer
+20525-030E-02            Duplicate Pad Name On Pads Pad Free-NC(-8.445mm,0.763mm) on Top Layer And Pad Free-NC(8.445mm,-1.562mm) on Top Layer
+20525-030E-02            Duplicate Pad Name On Pads Pad Free-NC(4.8mm,0.66mm) on Top Layer And Pad Free-NC(8.445mm,-1.562mm) on Top Layer
+20525-030E-02            Duplicate Pad Name On Pads Pad Free-NC(0mm,0.66mm) on Top Layer And Pad Free-NC(8.445mm,-1.562mm) on Top Layer
+20525-030E-02            Duplicate Pad Name On Pads Pad Free-NC(2.4mm,0.66mm) on Top Layer And Pad Free-NC(8.445mm,-1.562mm) on Top Layer
+20525-030E-02            Duplicate Pad Name On Pads Pad Free-NC(-2.4mm,0.66mm) on Top Layer And Pad Free-NC(8.445mm,-1.562mm) on Top Layer
+20525-030E-02            Duplicate Pad Name On Pads Pad Free-NC(-4.8mm,0.66mm) on Top Layer And Pad Free-NC(8.445mm,-1.562mm) on Top Layer
+
+Electrode_SCS            Duplicate Pad Name On Pads Pad Free-1(-38.5mm,2.54mm) on Multi-Layer And Pad Free-1(-38.5mm,-2.54mm) on Multi-Layer
+Electrode_SCS            Duplicate Pad Name On Pads Pad Free-7(27.5mm,-2.54mm) on Multi-Layer And Pad Free-7(27.5mm,2.54mm) on Multi-Layer
+Electrode_SCS            Duplicate Pad Name On Pads Pad Free-6(16.5mm,-2.54mm) on Multi-Layer And Pad Free-6(16.5mm,2.54mm) on Multi-Layer
+Electrode_SCS            Duplicate Pad Name On Pads Pad Free-3(-16.5mm,-2.54mm) on Multi-Layer And Pad Free-3(-16.5mm,2.54mm) on Multi-Layer
+Electrode_SCS            Duplicate Pad Name On Pads Pad Free-5(5.5mm,-2.54mm) on Multi-Layer And Pad Free-5(5.5mm,2.54mm) on Multi-Layer
+Electrode_SCS            Duplicate Pad Name On Pads Pad Free-4(-5.5mm,-2.54mm) on Multi-Layer And Pad Free-4(-5.5mm,2.54mm) on Multi-Layer
+Electrode_SCS            Duplicate Pad Name On Pads Pad Free-2(-27.5mm,-2.54mm) on Multi-Layer And Pad Free-2(-27.5mm,2.54mm) on Multi-Layer
+Electrode_SCS            Duplicate Pad Name On Pads Pad Free-8(38.5mm,-2.54mm) on Multi-Layer And Pad Free-8(38.5mm,2.54mm) on Multi-Layer
+
+DG2002-4.0-01P           Duplicate Pad Name On Pads Pad Free-1(0mm,-4mm) on Top Layer And Pad Free-1(0mm,5.25mm) on Top Layer
+
+DG2002-4.0-02P           Duplicate Pad Name On Pads Pad Free-2(2mm,5.25mm) on Top Layer And Pad Free-2(2mm,-4mm) on Top Layer
+DG2002-4.0-02P           Duplicate Pad Name On Pads Pad Free-1(-2mm,5.25mm) on Top Layer And Pad Free-1(-2mm,-4mm) on Top Layer
+
+DG2002-4.0-03P           Duplicate Pad Name On Pads Pad Free-2(0mm,5.25mm) on Top Layer And Pad Free-2(0mm,-4mm) on Top Layer
+DG2002-4.0-03P           Duplicate Pad Name On Pads Pad Free-1(-4mm,5.25mm) on Top Layer And Pad Free-1(-4mm,-4mm) on Top Layer
+DG2002-4.0-03P           Duplicate Pad Name On Pads Pad Free-3(4mm,5.25mm) on Top Layer And Pad Free-3(4mm,-4mm) on Top Layer
+
+DG2003-6.0-02P           Duplicate Pad Name On Pads Pad Free-1(-3mm,-5.75mm) on Top Layer And Pad Free-1(-3mm,6.75mm) on Top Layer
+DG2003-6.0-02P           Duplicate Pad Name On Pads Pad Free-2(3mm,-5.75mm) on Top Layer And Pad Free-2(3mm,6.75mm) on Top Layer
+
+FH55-22S-0.5SH           Duplicate Pad Name On Pads Pad Free-NC(-6.85mm,-1.612mm) on Top Layer And Pad Free-NC(6.85mm,-1.612mm) on Top Layer
+
+GCT_USB4110GFA           Duplicate Pad Name On Pads Pad Free-(2.89mm,0mm) on Multi-Layer And Pad Free-(-2.89mm,0mm) on Multi-Layer
+
+DG142R-5.08-02P          Duplicate Pad Name On Pads Pad Free-1(-2.54mm,7.62mm) on Multi-Layer And Pad Free-1(-2.54mm,0mm) on Multi-Layer
+DG142R-5.08-02P          Duplicate Pad Name On Pads Pad Free-2(2.54mm,7.62mm) on Multi-Layer And Pad Free-2(2.54mm,0mm) on Multi-Layer
+
+DG142R-5.08-03P          Duplicate Pad Name On Pads Pad Free-3(5.08mm,7.62mm) on Multi-Layer And Pad Free-3(5.08mm,0mm) on Multi-Layer
+DG142R-5.08-03P          Duplicate Pad Name On Pads Pad Free-2(0mm,7.62mm) on Multi-Layer And Pad Free-2(0mm,0mm) on Multi-Layer
+DG142R-5.08-03P          Duplicate Pad Name On Pads Pad Free-1(-5.08mm,7.62mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+
+DG142R-5.08-04P          Duplicate Pad Name On Pads Pad Free-3(2.54mm,7.62mm) on Multi-Layer And Pad Free-3(2.54mm,0mm) on Multi-Layer
+DG142R-5.08-04P          Duplicate Pad Name On Pads Pad Free-2(-2.54mm,7.62mm) on Multi-Layer And Pad Free-2(-2.54mm,0mm) on Multi-Layer
+DG142R-5.08-04P          Duplicate Pad Name On Pads Pad Free-1(-7.62mm,7.62mm) on Multi-Layer And Pad Free-1(-7.62mm,0mm) on Multi-Layer
+DG142R-5.08-04P          Duplicate Pad Name On Pads Pad Free-4(7.62mm,7.62mm) on Multi-Layer And Pad Free-4(7.62mm,0mm) on Multi-Layer
+
+DG142R-5.08-05P          Duplicate Pad Name On Pads Pad Free-5(10.16mm,0mm) on Multi-Layer And Pad Free-5(10.16mm,7.62mm) on Multi-Layer
+DG142R-5.08-05P          Duplicate Pad Name On Pads Pad Free-4(5.08mm,0mm) on Multi-Layer And Pad Free-4(5.08mm,7.62mm) on Multi-Layer
+DG142R-5.08-05P          Duplicate Pad Name On Pads Pad Free-1(-10.16mm,0mm) on Multi-Layer And Pad Free-1(-10.16mm,7.62mm) on Multi-Layer
+DG142R-5.08-05P          Duplicate Pad Name On Pads Pad Free-2(-5.08mm,0mm) on Multi-Layer And Pad Free-2(-5.08mm,7.62mm) on Multi-Layer
+DG142R-5.08-05P          Duplicate Pad Name On Pads Pad Free-3(0mm,0mm) on Multi-Layer And Pad Free-3(0mm,7.62mm) on Multi-Layer
+
+FS1.5-02-500_RB          Duplicate Pad Name On Pads Pad Free-2(2.5mm,2.5mm) on Multi-Layer And Pad Free-2(2.5mm,-2.5mm) on Multi-Layer
+FS1.5-02-500_RB          Duplicate Pad Name On Pads Pad Free-1(-2.5mm,-2.5mm) on Multi-Layer And Pad Free-1(-2.5mm,2.5mm) on Multi-Layer
+
+TS200-00-400-2p          Duplicate Pad Name On Pads Pad Free-2(4mm,0mm) on Top Layer And Pad Free-2(4mm,-11.5mm) on Top Layer
+TS200-00-400-2p          Duplicate Pad Name On Pads Pad Free-1(0mm,0mm) on Top Layer And Pad Free-1(0mm,-11.5mm) on Top Layer
+
+ ŒÕ“¿ “ 7461101          Duplicate Pad Name On Pads Pad Free-1(0mm,-2.54mm) on Multi-Layer And Pad Free-1(-2.54mm,-2.54mm) on Multi-Layer
+ ŒÕ“¿ “ 7461101          Duplicate Pad Name On Pads Pad Free-1(2.54mm,-2.54mm) on Multi-Layer And Pad Free-1(-2.54mm,-2.54mm) on Multi-Layer
+ ŒÕ“¿ “ 7461101          Duplicate Pad Name On Pads Pad Free-1(2.54mm,2.54mm) on Multi-Layer And Pad Free-1(-2.54mm,-2.54mm) on Multi-Layer
+ ŒÕ“¿ “ 7461101          Duplicate Pad Name On Pads Pad Free-1(0mm,2.54mm) on Multi-Layer And Pad Free-1(-2.54mm,-2.54mm) on Multi-Layer
+ ŒÕ“¿ “ 7461101          Duplicate Pad Name On Pads Pad Free-1(-2.54mm,2.54mm) on Multi-Layer And Pad Free-1(-2.54mm,-2.54mm) on Multi-Layer
+
+CONN3_1909763_TEC        Duplicate Primitives: Track (1.5mm,-1.5mm)(1.5mm,1.5mm) on Mechanical 13 And Track (1.5mm,-1.5mm)(1.5mm,1.5mm) on Mechanical 13
+CONN3_1909763_TEC        Duplicate Primitives: Track (-1.5mm,-1.5mm)(-1.5mm,1.5mm) on Mechanical 13 And Track (-1.5mm,-1.5mm)(-1.5mm,1.5mm) on Mechanical 13
+
+FS1.5-02-500_GrayGray    Duplicate Pad Name On Pads Pad Free-2(2.5mm,-2.5mm) on Multi-Layer And Pad Free-2(2.5mm,2.5mm) on Multi-Layer
+FS1.5-02-500_GrayGray    Duplicate Pad Name On Pads Pad Free-1(-2.5mm,2.5mm) on Multi-Layer And Pad Free-1(-2.5mm,-2.5mm) on Multi-Layer
+
+FS1.5-03-500_GrayGray    Duplicate Pad Name On Pads Pad Free-3(5mm,2.5mm) on Multi-Layer And Pad Free-3(5mm,-2.5mm) on Multi-Layer
+FS1.5-03-500_GrayGray    Duplicate Pad Name On Pads Pad Free-2(0mm,2.5mm) on Multi-Layer And Pad Free-2(0mm,-2.5mm) on Multi-Layer
+FS1.5-03-500_GrayGray    Duplicate Pad Name On Pads Pad Free-1(-5mm,-2.5mm) on Multi-Layer And Pad Free-1(-5mm,2.5mm) on Multi-Layer
+
+FS1.5-02-500_GreerGray   Duplicate Pad Name On Pads Pad Free-2(2.5mm,-2.5mm) on Multi-Layer And Pad Free-2(2.5mm,2.5mm) on Multi-Layer
+FS1.5-02-500_GreerGray   Duplicate Pad Name On Pads Pad Free-1(-2.5mm,2.5mm) on Multi-Layer And Pad Free-1(-2.5mm,-2.5mm) on Multi-Layer
+
+TS200-00-400-2p_manual   Duplicate Pad Name On Pads Pad Free-1(0mm,-12.5mm) on Top Layer And Pad Free-1(0mm,0mm) on Top Layer
+TS200-00-400-2p_manual   Duplicate Pad Name On Pads Pad Free-2(4mm,-12.5mm) on Top Layer And Pad Free-2(4mm,0mm) on Top Layer
+
+BM23PF0.8-40DS-0.35V(51) Duplicate Pad Name On Pads Pad Free-P1(-4.03mm,-0.95mm) on Top Layer And Pad Free-P1(-4.03mm,0.95mm) on Top Layer
+BM23PF0.8-40DS-0.35V(51) Duplicate Pad Name On Pads Pad Free-P2(4.03mm,-0.95mm) on Top Layer And Pad Free-P2(4.03mm,0.95mm) on Top Layer
+
+LSHM-150-04.0-L-DV-A-S-K-TRDuplicate Pad Name On Pads Pad Free-(-13.5mm,-0.85mm) on Multi-Layer And Pad Free-(13.5mm,-0.85mm) on Multi-Layer
+
+PTSM 0,5/ 2-HH- 2,5-SMD WH R32Duplicate Pad Name On Pads Pad Free-3(-4.5mm,1.925mm) on Top Layer And Pad Free-3(4.5mm,1.925mm) on Top Layer
+PTSM 0,5/ 2-HH- 2,5-SMD WH R32Duplicate Pad Name On Pads Pad Free-NC(-2.35mm,2.675mm) on Multi-Layer And Pad Free-NC(2.35mm,2.675mm) on Multi-Layer
+
+PTSM 0,5/ 3-HH- 2,5-SMD WH R32Duplicate Pad Name On Pads Pad Free-4(-5.75mm,1.925mm) on Top Layer And Pad Free-4(5.75mm,1.925mm) on Top Layer
+PTSM 0,5/ 3-HH- 2,5-SMD WH R32Duplicate Pad Name On Pads Pad Free-NC(-3.6mm,2.675mm) on Multi-Layer And Pad Free-NC(3.6mm,2.675mm) on Multi-Layer
+
+PTSM 0,5/ 4-HH- 2,5-SMD WH R32Duplicate Pad Name On Pads Pad Free-5(7mm,1.925mm) on Top Layer And Pad Free-5(-7mm,1.925mm) on Top Layer
+PTSM 0,5/ 4-HH- 2,5-SMD WH R32Duplicate Pad Name On Pads Pad Free-NC(-4.85mm,2.675mm) on Multi-Layer And Pad Free-NC(4.85mm,2.675mm) on Multi-Layer
+
+PTSM 0,5/ 3-HH- 2,5-SMD WH R32 - duplicateDuplicate Pad Name On Pads Pad Free-4(-5.75mm,1.925mm) on Top Layer And Pad Free-4(5.75mm,1.925mm) on Top Layer
+PTSM 0,5/ 3-HH- 2,5-SMD WH R32 - duplicateDuplicate Pad Name On Pads Pad Free-NC(-3.6mm,2.675mm) on Multi-Layer And Pad Free-NC(3.6mm,2.675mm) on Multi-Layer
+
