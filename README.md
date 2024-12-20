@@ -111,6 +111,23 @@ https://www.youtube.com/watch?v=yTLu0gdOo6c
 | LEDs.PcbLib                        | светодиоды SMD, DIP |  |
 | #MCUs                              |  |  |
 | #FPGAs                             |  |  |
+| Inductors.PcbLib, .SchLib | | |               
+| Power_Converters IC's.PcbLib, .SchLib | LDO, преобразователи и тп.  | |
+| Motor Driver ICs, Gate Drivers.SchLib | Драйверы||
+| Transistors.SchLib | | |
+| Transformers.PcbLib, .SchLib | Трансформаторы||
+| Diodes.SchLib | | |
+| Transistors, Diodes, etc.PcbLib| посадочные места под диоды и транзисторы||
+| Crystals, Oscillators, Resonators.PcbLib, .SchLib|||
+| MCU STM32 |Микроконтроллеры Stm32||
+| DA, DD IC.PcbLib| посадочные места под микросхемы||
+| Leds.PcbLib, .SchLib |Светодиоды||
+| Capasitors_SMD_other|Конденсаторы остальных типоразмеров из Artix ||
+| Resistors_other |Резисторы остальных типоразмеров из Artix||
+
+
+
+
 
 
 Сохранено для обратной совместимости с легаси проектами
